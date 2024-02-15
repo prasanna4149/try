@@ -15,7 +15,7 @@
     top: 20%;
     left: 0;
     z-index: 99999;
-    background: #262626;
+    background: #09033e;
     width: 40px;
     height: 40px;
     border-top-right-radius: 8px;
@@ -41,14 +41,14 @@
     font-size: 15px;
 }
 .demo-switcher .switcher-header { 
-    background: #262626; 
+    background: #1d0945; 
     padding-top: 17px; 
     padding-bottom: 15px; 
     border-top-right-radius: 5px;
     z-index: 5;
     position: relative;
     cursor: pointer;
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 1px solid #0a10af;
 }
 .demo-switcher .switcher-header p { 
     color: #f7f7f7; 
@@ -76,7 +76,7 @@
     position: relative;
 }
 .demo-switcher .dark-list { 
-    background: #262626;
+    background: #303061;
 }
 .demo-switcher .dark-list li a {
     color: #ffffff;
@@ -124,7 +124,7 @@
     text-transform: lowercase;
 }
 .demo-switcher .special-list a i {
-    color: #ffbc00;
+    color: #0015ff;
     font-size: 15px;
     padding-right: 10px;
 }
